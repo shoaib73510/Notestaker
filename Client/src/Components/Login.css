@@ -1,0 +1,25 @@
+.llr{
+
+
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin-top: 100px;
+    width: 500px !important;
+    height: 330px;
+   box-shadow: 4px 4px 4px black,-4px -4px 5px black;
+    
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.cc{
+    
+    color: rgb(12, 49, 217) !important;
+    font-size: 15px;
+    text-decoration: underline;
+}
+.bgm{
+    background-image: linear-gradient(to bottom right, rgb(1,153,217) , rgb(0,217,193));
+}
